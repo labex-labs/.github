@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-If you are an expert in a certain field of technology, you are welcome to join us as a LabEx author.
+If you are an expert in a certain field of technology, you are welcome to join us as a LabEx Instructor.
 
 To become a LabEx author:
 
