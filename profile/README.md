@@ -1,12 +1,10 @@
 ## Hi there 👋
 
-<!--
+If you are an expert in a certain field of technology, you are welcome to join us as a LabEx author.
 
-**Here are some ideas to get you started:**
+To become a LabEx author:
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+1. Read the [LabEx Guidelines ↗](https://labex.wiki/);
+2. Go to [labex-labs/scenarios ↗](https://github.com/labex-labs/scenarios/issues) to claim an Issue and submit it for Review by the LabEx editor.
+
+Learn more about [how to start contributing content ↗](https://github.com/labex-labs/scenarios/issues/18).
