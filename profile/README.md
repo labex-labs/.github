@@ -19,4 +19,4 @@ Build real-world skills with interactive labs, guided exercises, and coding proj
 
 <br />
 
-<p align="center">Made with ❤️ by the LabEx Team, around the world 🌍</p>
+<p align="left">Made with ❤️ by the LabEx Team, around the world 🌍</p>
