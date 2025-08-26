@@ -1,4 +1,4 @@
-<img align="right" src="https://cdn.aibydoing.com/images/2025/04/af730a59-fd4a-46da-92e5-2bbd39d95b0b-1745548605.png" width="40%">
+<img align="right" src="https://github.com/user-attachments/assets/5c88bfba-33ac-438b-96a3-889af1cca23f" width="40%">
 
 <p align="left">
 <picture>
