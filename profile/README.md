@@ -15,7 +15,11 @@ Build real-world skills with interactive labs, guided exercises, and coding proj
 
 ---
 
-<strong>[Start your lab journey today](https://labex.io/learn) 👉 </strong>
+> <strong>[Start your lab journey today](https://labex.io/learn) 👉</strong>
+
+<br />
+
+📖 Need help? Check out our [Help Center](https://support.labex.io/)
 
 <br />
 
