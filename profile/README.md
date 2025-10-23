@@ -1,16 +1,22 @@
-<img align="right" src="https://github.com/user-attachments/assets/ad70c1d0-077c-4364-8f30-c2a807a7e614" width="60%">
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<p align="left">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://labex.io/_ipx/s_196x60/labex-logo-light.svg" width="200px">
-<source media="(prefers-color-scheme: light)" srcset="https://labex.io/_ipx/s_196x60/labex-logo-dark.svg" width="200px">
-<img alt="LabEx Logo" src="https://labex.io/_ipx/s_196x60/labex-logo-light.svg" width="400px">
-</picture>
-</p>
+<img align="right" src="https://github.com/user-attachments/assets/ad70c1d0-077c-4364-8f30-c2a807a7e614" width="100%">
+
+<br />
 
 [LabEx](https://labex.io) is the **hands-on learning platform for beginners** to explore **Linux, DevOps, Python, Cybersecurity, Databases, and more** — all directly in your browser.  
 
-Learn step by step through **interactive labs**, **guided exercises**, and **real-world projects**. 🌱 No setup, no stress — just practice and grow your skills by doing.
+Learn step by step through **interactive labs**, **guided exercises**, and **real-world projects**. 🌱  
+No setup, no stress — just practice and grow your skills by doing.
+
+📖 Need help? Visit our [Help Center](https://support.labex.io/)
+
+<p align="left">Made with ❤️ by the LabEx Team, around the world 🌍</p>
+
+</td>
+<td width="50%" valign="top">
 
 ### 🐧 Linux & DevOps
 
@@ -31,7 +37,6 @@ Learn step by step through **interactive labs**, **guided exercises**, and **rea
 [![Nmap](https://img.shields.io/badge/Nmap-Path-004F8C?logo=nmap&logoColor=white)](https://labex.io/learn/nmap)
 [![Wireshark](https://img.shields.io/badge/Wireshark-Path-1679A7?logo=wireshark&logoColor=white)](https://labex.io/learn/wireshark)
 [![Hydra](https://img.shields.io/badge/Hydra-Path-0F172A?logo=securityscorecard&logoColor=white)](https://labex.io/learn/hydra)
-[![Kali Linux](https://img.shields.io/badge/Kali%20Linux-Path-557C94?logo=kalilinux&logoColor=white)](https://labex.io/learn/kali)
 
 ### 🧑‍💻 Programming
 
@@ -67,8 +72,6 @@ Learn step by step through **interactive labs**, **guided exercises**, and **rea
 [![Web Dev](https://img.shields.io/badge/Web%20Development-Path-0A66C2?logo=webflow&logoColor=white)](https://labex.io/learn/webdev)
 [![Alibaba Cloud](https://img.shields.io/badge/Alibaba%20Cloud-Path-FF6A00?logo=alibabacloud&logoColor=white)](https://labex.io/learn/alibaba)
 
----
-
-📖 Need help? Visit our [Help Center](https://support.labex.io/)
-
-<p align="left">Made with ❤️ by the LabEx Team, around the world 🌍</p>
+</td>
+</tr>
+</table>
