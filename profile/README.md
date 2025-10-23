@@ -13,6 +13,14 @@ No setup, no stress — just practice and grow your skills by doing.
 
 <p align="left">Made with ❤️ by the LabEx Team, around the world 🌍</p>
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://labex.io/_ipx/s_196x60/labex-logo-light.svg" width="200px">
+    <source media="(prefers-color-scheme: light)" srcset="https://labex.io/_ipx/s_196x60/labex-logo-dark.svg" width="200px">
+    <img alt="LabEx Logo" src="https://labex.io/_ipx/s_196x60/labex-logo-light.svg" width="200px">
+  </picture>
+</p>
+
 </td>
 <td width="50%" valign="top">
 
