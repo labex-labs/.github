@@ -13,6 +13,9 @@ No setup, no stress — just practice and grow your skills by doing.
 
 <p align="left">Made with ❤️ by the LabEx Team, around the world 🌍</p>
 
+</td>
+<td width="50%" valign="top">
+
 <br />
 
 **🐧 Linux & DevOps**
