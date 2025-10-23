@@ -2,9 +2,7 @@
 <tr>
 <td width="50%" valign="top">
 
-<img align="right" src="https://github.com/user-attachments/assets/ad70c1d0-077c-4364-8f30-c2a807a7e614" width="100%">
-
-<br />
+![cover](https://github.com/user-attachments/assets/ad70c1d0-077c-4364-8f30-c2a807a7e614)
 
 [LabEx](https://labex.io) is the **hands-on learning platform for beginners** to explore **Linux, DevOps, Python, Cybersecurity, Databases, and more** — all directly in your browser.  
 
