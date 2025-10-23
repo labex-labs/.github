@@ -14,7 +14,7 @@ No setup, no stress — just practice and grow your skills by doing.
 <p align="left">Made with ❤️ by the LabEx Team, around the world 🌍</p>
 
 </td>
-<td width="50%" align="center" valign="middle">
+<td width="50%" align="left" valign="middle">
 
 <br />
 
