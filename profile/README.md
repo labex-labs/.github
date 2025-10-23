@@ -82,6 +82,8 @@ No setup, no stress — just practice and grow your skills by doing.
 [![Web Dev](https://img.shields.io/badge/Web%20Development-Path-0A66C2?logo=webflow&logoColor=white)](https://labex.io/learn/webdev)
 [![Alibaba Cloud](https://img.shields.io/badge/Alibaba%20Cloud-Path-FF6A00?logo=alibabacloud&logoColor=white)](https://labex.io/learn/alibaba)
 
+<br />
+
 </td>
 </tr>
 </table>
