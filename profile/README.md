@@ -13,15 +13,6 @@ No setup, no stress — just practice and grow your skills by doing.
 
 <p align="left">Made with ❤️ by the LabEx Team, around the world 🌍</p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://labex.io/_ipx/s_196x60/labex-logo-light.svg" width="300px">
-  <source media="(prefers-color-scheme: light)" srcset="https://labex.io/_ipx/s_196x60/labex-logo-dark.svg" width="300px">
-  <img alt="LabEx Logo" src="https://labex.io/_ipx/s_196x60/labex-logo-light.svg" width="300px">
-</picture>
-
-</td>
-<td width="50%" valign="top">
-
 <br />
 
 **🐧 Linux & DevOps**
