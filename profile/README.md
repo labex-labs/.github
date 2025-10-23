@@ -9,7 +9,11 @@
 Learn step by step through **interactive labs**, **guided exercises**, and **real-world projects**. 🌱  
 No setup, no stress — just practice and grow your skills by doing.
 
+<br />
+
 📖 Need help? Visit our [Help Center](https://support.labex.io/)
+
+<br />
 
 Made with ❤️ by the LabEx Team, around the world 🌍
 
