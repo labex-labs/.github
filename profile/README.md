@@ -1,6 +1,6 @@
 <table>
 <tr>
-<td width="50%" valign="middle">
+<td width="50%" align="center" valign="middle">
 
 ![cover](https://github.com/user-attachments/assets/ad70c1d0-077c-4364-8f30-c2a807a7e614)
 
@@ -11,10 +11,10 @@ No setup, no stress — just practice and grow your skills by doing.
 
 📖 Need help? Visit our [Help Center](https://support.labex.io/)
 
-<p align="left">Made with ❤️ by the LabEx Team, around the world 🌍</p>
+Made with ❤️ by the LabEx Team, around the world 🌍
 
 </td>
-<td width="50%" align="left" valign="middle">
+<td width="50%" align="center" valign="middle">
 
 <br />
 
