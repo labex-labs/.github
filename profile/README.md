@@ -31,7 +31,7 @@ No setup, no stress — just practice and grow your skills by doing.
 [![Jenkins](https://img.shields.io/badge/Jenkins-Path-D24939?logo=jenkins&logoColor=white)](https://labex.io/learn/jenkins)
 [![Ansible](https://img.shields.io/badge/Ansible-Path-EE0000?logo=ansible&logoColor=white)](https://labex.io/learn/ansible)
 
----
+<br />
 
 **🕵️ Cybersecurity**
 
@@ -40,7 +40,7 @@ No setup, no stress — just practice and grow your skills by doing.
 [![Wireshark](https://img.shields.io/badge/Wireshark-Path-1679A7?logo=wireshark&logoColor=white)](https://labex.io/learn/wireshark)
 [![Hydra](https://img.shields.io/badge/Hydra-Path-0F172A?logo=securityscorecard&logoColor=white)](https://labex.io/learn/hydra)
 
----
+<br />
 
 **🧑‍💻 Programming**
 
@@ -51,7 +51,7 @@ No setup, no stress — just practice and grow your skills by doing.
 [![Java](https://img.shields.io/badge/Java-Path-007396?logo=java&logoColor=white)](https://labex.io/learn/java)
 [![CompTIA](https://img.shields.io/badge/CompTIA-Path-EA1D25?logo=comptia&logoColor=white)](https://labex.io/learn/comptia)
 
----
+<br />
 
 **🧠 Data & AI**
 
@@ -61,7 +61,7 @@ No setup, no stress — just practice and grow your skills by doing.
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-Path-F7931E?logo=scikitlearn&logoColor=white)](https://labex.io/learn/sklearn)
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-Path-11557C?logo=plotly&logoColor=white)](https://labex.io/learn/matplotlib)
 
----
+<br />
 
 **💾 Databases**
 
@@ -71,7 +71,7 @@ No setup, no stress — just practice and grow your skills by doing.
 [![MongoDB](https://img.shields.io/badge/MongoDB-Path-47A248?logo=mongodb&logoColor=white)](https://labex.io/learn/mongodb)
 [![Redis](https://img.shields.io/badge/Redis-Path-DC382D?logo=redis&logoColor=white)](https://labex.io/learn/redis)
 
----
+<br />
 
 **🌐 Web Development**
 
