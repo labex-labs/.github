@@ -18,7 +18,7 @@ No setup, no stress — just practice and grow your skills by doing.
 </td>
 <td width="50%" valign="top">
 
-### 🐧 Linux & DevOps
+**🐧 Linux & DevOps**
 
 [![Linux](https://img.shields.io/badge/Linux-Path-blue?logo=linux&logoColor=white)](https://labex.io/learn/linux)
 [![Red Hat](https://img.shields.io/badge/Red%20Hat-Path-EE0000?logo=redhat&logoColor=white)](https://labex.io/learn/rhel)
@@ -31,14 +31,14 @@ No setup, no stress — just practice and grow your skills by doing.
 [![Jenkins](https://img.shields.io/badge/Jenkins-Path-D24939?logo=jenkins&logoColor=white)](https://labex.io/learn/jenkins)
 [![Ansible](https://img.shields.io/badge/Ansible-Path-EE0000?logo=ansible&logoColor=white)](https://labex.io/learn/ansible)
 
-### 🕵️ Cybersecurity
+**🕵️ Cybersecurity**
 
 [![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Path-1E293B?logo=hackthebox&logoColor=white)](https://labex.io/learn/cybersecurity)
 [![Nmap](https://img.shields.io/badge/Nmap-Path-004F8C?logo=nmap&logoColor=white)](https://labex.io/learn/nmap)
 [![Wireshark](https://img.shields.io/badge/Wireshark-Path-1679A7?logo=wireshark&logoColor=white)](https://labex.io/learn/wireshark)
 [![Hydra](https://img.shields.io/badge/Hydra-Path-0F172A?logo=securityscorecard&logoColor=white)](https://labex.io/learn/hydra)
 
-### 🧑‍💻 Programming
+**🧑‍💻 Programming**
 
 [![Python](https://img.shields.io/badge/Python-Path-3776AB?logo=python&logoColor=white)](https://labex.io/learn/python)
 [![C](https://img.shields.io/badge/C-Path-A8B9CC?logo=c&logoColor=white)](https://labex.io/learn/c)
@@ -47,7 +47,7 @@ No setup, no stress — just practice and grow your skills by doing.
 [![Java](https://img.shields.io/badge/Java-Path-007396?logo=java&logoColor=white)](https://labex.io/learn/java)
 [![CompTIA](https://img.shields.io/badge/CompTIA-Path-EA1D25?logo=comptia&logoColor=white)](https://labex.io/learn/comptia)
 
-### 🧠 Data & AI
+**🧠 Data & AI**
 
 [![Data Science](https://img.shields.io/badge/Data%20Science-Path-5C2D91?logo=databricks&logoColor=white)](https://labex.io/learn/datascience)
 [![Pandas](https://img.shields.io/badge/Pandas-Path-150458?logo=pandas&logoColor=white)](https://labex.io/learn/pandas)
@@ -55,7 +55,7 @@ No setup, no stress — just practice and grow your skills by doing.
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-Path-F7931E?logo=scikitlearn&logoColor=white)](https://labex.io/learn/sklearn)
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-Path-11557C?logo=plotly&logoColor=white)](https://labex.io/learn/matplotlib)
 
-### 💾 Databases
+**💾 Databases**
 
 [![MySQL](https://img.shields.io/badge/MySQL-Path-4479A1?logo=mysql&logoColor=white)](https://labex.io/learn/mysql)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Path-336791?logo=postgresql&logoColor=white)](https://labex.io/learn/postgresql)
@@ -63,7 +63,7 @@ No setup, no stress — just practice and grow your skills by doing.
 [![MongoDB](https://img.shields.io/badge/MongoDB-Path-47A248?logo=mongodb&logoColor=white)](https://labex.io/learn/mongodb)
 [![Redis](https://img.shields.io/badge/Redis-Path-DC382D?logo=redis&logoColor=white)](https://labex.io/learn/redis)
 
-### 🌐 Web Development
+**🌐 Web Development**
 
 [![HTML](https://img.shields.io/badge/HTML-Path-E34F26?logo=html5&logoColor=white)](https://labex.io/learn/html)
 [![CSS](https://img.shields.io/badge/CSS-Path-1572B6?logo=css3&logoColor=white)](https://labex.io/learn/css)
