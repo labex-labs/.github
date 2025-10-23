@@ -1,6 +1,6 @@
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="middle">
 
 ![cover](https://github.com/user-attachments/assets/ad70c1d0-077c-4364-8f30-c2a807a7e614)
 
@@ -14,7 +14,7 @@ No setup, no stress — just practice and grow your skills by doing.
 <p align="left">Made with ❤️ by the LabEx Team, around the world 🌍</p>
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="middle">
 
 <br />
 
