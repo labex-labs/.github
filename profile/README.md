@@ -35,16 +35,12 @@ Made with ❤️ by the LabEx Team, around the world 🌍
 [![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white&style=for-the-badge)](https://labex.io/learn/jenkins)
 [![Ansible](https://img.shields.io/badge/Ansible-EE0000?logo=ansible&logoColor=white&style=for-the-badge)](https://labex.io/learn/ansible)
 
-<br />
-
 **🕵️ Cybersecurity**
 
 [![Cybersecurity](https://img.shields.io/badge/Cybersecurity-1E293B?logo=hackthebox&logoColor=white&style=for-the-badge)](https://labex.io/learn/cybersecurity)
 [![Nmap](https://img.shields.io/badge/Nmap-004F8C?logo=nmap&logoColor=white&style=for-the-badge)](https://labex.io/learn/nmap)
 [![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?logo=wireshark&logoColor=white&style=for-the-badge)](https://labex.io/learn/wireshark)
 [![Hydra](https://img.shields.io/badge/Hydra-0F172A?logo=securityscorecard&logoColor=white&style=for-the-badge)](https://labex.io/learn/hydra)
-
-<br />
 
 **🧑‍💻 Programming**
 
@@ -55,8 +51,6 @@ Made with ❤️ by the LabEx Team, around the world 🌍
 [![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=for-the-badge)](https://labex.io/learn/java)
 [![CompTIA](https://img.shields.io/badge/CompTIA-EA1D25?logo=comptia&logoColor=white&style=for-the-badge)](https://labex.io/learn/comptia)
 
-<br />
-
 **🧠 Data & AI**
 
 [![Data Science](https://img.shields.io/badge/Data%20Science-5C2D91?logo=databricks&logoColor=white&style=for-the-badge)](https://labex.io/learn/datascience)
@@ -65,8 +59,6 @@ Made with ❤️ by the LabEx Team, around the world 🌍
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white&style=for-the-badge)](https://labex.io/learn/sklearn)
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=plotly&logoColor=white&style=for-the-badge)](https://labex.io/learn/matplotlib)
 
-<br />
-
 **💾 Databases**
 
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)](https://labex.io/learn/mysql)
@@ -74,8 +66,6 @@ Made with ❤️ by the LabEx Team, around the world 🌍
 [![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white&style=for-the-badge)](https://labex.io/learn/sqlite)
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)](https://labex.io/learn/mongodb)
 [![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white&style=for-the-badge)](https://labex.io/learn/redis)
-
-<br />
 
 **🌐 Web Development**
 
