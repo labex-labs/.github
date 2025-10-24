@@ -74,7 +74,7 @@ Made with ❤️ by the LabEx Team, around the world 🌍
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)](https://labex.io/learn/javascript)
 [![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge)](https://labex.io/learn/react)
 [![Web Dev](https://img.shields.io/badge/Web%20Development-0A66C2?logo=webflow&logoColor=white&style=for-the-badge)](https://labex.io/learn/webdev)
-[![Alibaba Cloud](https://img.shields.io/badge/Alibaba%20Cloud-FF6A00?logo=alibabacloud&logoColor=white&style=for-the-badge)](https://labex.io/learn/alibaba)
+[![Alibaba Cloud](https://img.shields.io/badge/Alibaba%20Cloud-FF6A00?logo=alibabacloud&logoColor=white&style=for-the-badge)](https://labex.io/alibaba)
 
 <br />
 
