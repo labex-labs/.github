@@ -2,7 +2,7 @@
 <tr>
 <td width="50%" align="center" valign="middle">
 
-![cover](https://github.com/user-attachments/assets/ad70c1d0-077c-4364-8f30-c2a807a7e614)
+[![](https://cdn.jsdelivr.net/gh/labex-labs/files@master/images/bf-2025-banner.png)](https://labex.io/pricing)
 
 [LabEx](https://labex.io) is the **hands-on learning platform for beginners** to explore **Linux, DevOps, Python, Cybersecurity, Databases, and more** — all directly in your browser.  
 
