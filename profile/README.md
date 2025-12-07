@@ -2,7 +2,7 @@
 <tr>
 <td width="50%" align="center" valign="middle">
 
-[![](https://cdn.jsdelivr.net/gh/labex-labs/files@master/images/cyber-monday-25.png)](https://labex.io/pricing)
+![](https://cdn.jsdelivr.net/gh/labex-labs/files@master/images/labex-office.png)
 
 [LabEx](https://labex.io) is the **hands-on learning platform for beginners** to explore **Linux, DevOps, Python, Cybersecurity, Databases, and more** — all directly in your browser.  
 
