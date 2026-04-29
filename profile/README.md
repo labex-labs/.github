@@ -1,4 +1,4 @@
-![](https://cdn.jsdelivr.net/gh/labex-labs/files@master/images/labex-office.png)
+<img src="https://cdn.jsdelivr.net/gh/labex-labs/files@master/images/labex-office.png" width="480" />
 
 [LabEx](https://labex.io) is the **hands-on learning platform for beginners** to explore **Linux, DevOps, Python, Cybersecurity, Databases, and more** — all directly in your browser.  
 
