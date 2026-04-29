@@ -2,7 +2,11 @@
   <img src="https://cdn.jsdelivr.net/gh/labex-labs/files@master/images/labex-office.png" width="480" />
 
   <p>
-    <a href="https://labex.io"><strong>LabEx</strong></a> is the <strong>hands-on learning platform for beginners</strong> to explore <strong>Linux, DevOps, Python, Cybersecurity, Databases, and more</strong> — all directly in your browser.
+    <a href="https://labex.io"><strong>LabEx</strong></a> is a <strong>hands-on learning platform for beginners</strong>.
+  </p>
+
+  <p>
+    Explore <strong>Linux, DevOps, Python, Cybersecurity, Databases, and more</strong> — all directly in your browser.
   </p>
 
   <p>
