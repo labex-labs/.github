@@ -17,12 +17,17 @@
   <br />
 
   <p>
-    📖 Need help? Visit our <a href="https://support.labex.io/">Help Center</a> or email info@labex.io
+    <a href="https://apps.apple.com/app/id6765840991">
+      <img
+        src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg"
+        alt="Download on the App Store"
+        width="160"
+      />
+    </a>
   </p>
 
   <br />
 
   <p>
-    Made with ❤️ by the LabEx Team, in Hong Kong and the United States.
+    📖 Need help? Visit our <a href="https://support.labex.io/">Help Center</a> or email info@labex.io
   </p>
-</div>
